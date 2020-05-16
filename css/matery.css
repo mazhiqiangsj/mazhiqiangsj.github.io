@@ -560,6 +560,11 @@ header .go-back i {
     height: 40vh !important;
 }
 
+.bg-cover:after {
+    -webkit-animation: rainbow 160s infinite;
+    animation: rainbow 160s infinite;
+}
+
 .bg-cover:before,
 .bg-cover:after {
     position: absolute;
