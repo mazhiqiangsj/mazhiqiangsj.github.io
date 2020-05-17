@@ -198,7 +198,7 @@ code {
 pre code {
     padding: 0;
     color: #e8eaf6;
-    background-color: #272822;
+    background-color: #ccc;
 }
 
 pre[class*="language-"] {
@@ -388,8 +388,8 @@ header .side-nav .social-link {
     height: 45px;
     line-height: 45px;
     font-size: 1rem;
-    color: #272822;
-    border: 1px solid #272822;
+    color: #ccc;
+    border: 1px solid #ccc;
     background-color: transparent;
     border-radius: 30px;
     box-shadow: none;
@@ -594,7 +594,7 @@ header .go-back i {
     font-weight: 300;
     font-size: 1.25rem;
     line-height: 1.4em;
-    color: #272822;
+    color: #ccc;
 }
 
 .bg-cover .post-title {
@@ -613,7 +613,7 @@ header .go-back i {
         background: -webkit-linear-gradient(135deg, rgba(156, 39, 176, 0.75) 0%, rgba(156, 39, 176, 0.65) 100%);
     }
 
-    16% {
+    36% {
         background: rgba(132, 13, 121, 0.75);
         background: linear-gradient(45deg, rgba(132, 13, 121, 0.75) 0%, rgba(132, 13, 121, 0.65) 100%);
         background: -moz-linear-gradient(135deg, rgba(132, 13, 121, 0.75) 0%, rgba(132, 13, 121, 0.65) 100%);
@@ -659,7 +659,7 @@ header .go-back i {
         background: -webkit-linear-gradient(135deg, rgba(156, 39, 176, 0.75) 0%, rgba(156, 39, 176, 0.65) 100%);
     }
 
-    16% {
+    36% {
         background: rgba(132, 13, 121, 0.75);
         background: linear-gradient(45deg, rgba(132, 13, 121, 0.75) 0%, rgba(132, 13, 121, 0.65) 100%);
         background: -moz-linear-gradient(135deg, rgba(132, 13, 121, 0.75) 0%, rgba(132, 13, 121, 0.65) 100%);
