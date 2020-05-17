@@ -114,7 +114,7 @@ blockquote {
 pre {
     padding: 2.5rem 1.5rem 1.5rem 1.5rem !important;
     margin: 1rem 0 !important;
-    background: #272822;
+    background: #ccc;
     overflow: auto;
     border-radius: 0.35rem;
     tab-size: 4;
@@ -140,7 +140,7 @@ code {
     font-family: Inconsolata, Monaco, Consolas, 'Courier New', Courier, monospace;
     font-size: 0.91rem;
     color: #e96900;
-    background-color: #272822;
+    background-color: #ccc;
     border-radius: 2px;
 }
 
@@ -520,7 +520,7 @@ header .side-nav .social-link {
 .cover-social-link a {
     padding: 0 15px;
     font-size: 1.35rem;
-    color: #272822;
+    color: #ccc;
 }
 
 header .go-back {
@@ -579,7 +579,7 @@ header .go-back i {
 
 .bg-cover .container {
     position: relative;
-    color: #272822;
+    color: #ccc;
     z-index: 2;
 }
 
